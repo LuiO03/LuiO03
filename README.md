@@ -52,8 +52,13 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 <td width="50%">
 
 ## Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,vue,vite,sass,bootstrap,tailwind,flutter,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vue,vite,sass,bootstrap,tailwind" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=flutter,wordpress" />
 </p>
 
 </td>
@@ -84,7 +89,7 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 ## Hosting y Deploy
 
 <p>
-<img src="https://skillicons.dev/icons?i=netlify,vercel,hostinger,digitalocean" />
+<img src="https://simpleicons.dev/icons?icons=digitalocean,hostinger,netlify" />
 </p>
 
 </tr>
@@ -95,7 +100,8 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 ## Diseño y Edición
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva" />
+<img src="https://skillicons.dev/icons?i=figma,illustrator,canva" />
+
 </p>
 
 </td>
@@ -104,7 +110,9 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 ## Herramientas y Control de Versiones
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,java,notion,xampp,asana,netBeans,intelliJ" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,idea,java,notion,intelliJ" />
 </p>
 
 </td>
