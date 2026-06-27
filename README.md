@@ -145,6 +145,8 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
   />
 </p>
 
+---
+
 # Contacto
 
 
@@ -163,6 +165,8 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </a>
 
 </p>
+
+---
 
 <p align="center">
 
