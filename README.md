@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hola, soy Luis
+  Hola, soy Luis
 </h1>
 
 <h3 align="center">
@@ -37,9 +37,7 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </td>
 
 <td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LuiO03&show_icons=true&hide_border=true&theme=transparent" />
-
+<img width="1075" height="1024" alt="foto-sin-fondo" src="https://github.com/user-attachments/assets/c9ea21e5-68dd-4ee4-a5de-9303d24adbc3" />
 </td>
 
 </tr>
@@ -48,33 +46,33 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 ---
 
 # 🛠️ Tecnologías
-## 🎨 Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,vue,vite,sass,bootstrap,tailwind,flutter,wordpress" />
 </p>
 
 
-## ⚙️ Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
 </p>
 
 
-## 🗄️ Base de Datos
+## Base de Datos
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-## 🚀 Hosting y Deploy
+## Hosting y Deploy
 
 <p>
 <img src="https://skillicons.dev/icons?i=netlify,vercel,hostinger,digitalocean" />
 </p>
 
-## 🎨 Diseño y Edición
+## Diseño y Edición
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva" />
