@@ -126,52 +126,44 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 
 # Estadísticas
 
-
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=LuiO03&show_icons=true&hide_border=true&theme=transparent"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiO03&layout=compact&hide_border=true&theme=transparent"
-/>
-
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=LuiO03&show_icons=true&hide_border=true&theme=transparent"
+  />
+  <img
+    width="37%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiO03&layout=compact&hide_border=true&theme=transparent"
+  />
 </p>
 
-
 <p align="center">
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=LuiO03&hide_border=true&theme=transparent"
-/>
-
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LuiO03&hide_border=true&theme=transparent"
+  />
 </p>
-
 
 ---
 
 # Contacto
 
 
-<p align="start">
+<p align="center">
 
 <a href="https://luio03.github.io/">
 <img src="https://img.shields.io/badge/Portafolio-Web-black?style=for-the-badge&logo=astro">
 </a>
 
-
 <a href="https://linkedin.com/in/luiO03">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
 </a>
-
 
 <a href="mailto:antagonist.fenixand.7777@outlook.com">
 <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
-
 
 ---
 
