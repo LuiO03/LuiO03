@@ -15,7 +15,6 @@
   <img width="3840" height="1080" alt="25391ec" src="https://github.com/user-attachments/assets/23517d82-857e-4057-bde5-5c510c8ab85b" />
 </p>
 
----
 
 <table>
 <tr>
@@ -43,7 +42,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </tr>
 </table>
 
----
 
 # Tecnologías
 
@@ -119,8 +117,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </tr>
 </table>
 
----
-
 # Actualmente aprendiendo
 
 - Arquitectura de software
@@ -128,9 +124,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 - Optimización web
 - Nuevas herramientas del ecosistema JavaScript
 - Mejores prácticas de desarrollo
-
-
----
 
 # Estadísticas
 
@@ -152,8 +145,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
   />
 </p>
 
----
-
 # Contacto
 
 
@@ -172,8 +163,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </a>
 
 </p>
-
----
 
 <p align="center">
 
