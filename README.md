@@ -110,96 +110,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </td>
 </tr>
 </table>
----
-
-# Proyectos destacados
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="start">
-    Constantine
-</h3>
-
-<p align="start">
-Catálogo virtual de prendas de vestir con una estructura MVC organizada y una experiencia de usuario enfocada en la navegación de productos.
-</p>
-
-<p align="start">
-
-PHP · MVC · MySQL · JavaScript · CSS
-
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="start">
-    Encuentro
-</h3>
-
-<p align="start">
-Sitio web para restaurante con menú dinámico, filtros, búsquedas y gestión de productos.
-</p>
-
-<p align="start">
-
-PHP · AJAX · MySQL · JavaScript
-
-</p>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-<h3 align="start">
-    Delicias Digitales
-</h3>
-
-<p align="start">
-Aplicación móvil de recetas desarrollada con Flutter y Firebase.
-</p>
-
-<p align="start">
-
-Flutter · Dart · Firebase
-
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="start">
-    Portafolio Web
-</h3>
-
-<p align="start">
-Sitio personal desarrollado para mostrar proyectos, habilidades y experiencia profesional.
-</p>
-
-<p align="start">
-
-Astro · CSS · JavaScript
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
 
 ---
 
@@ -244,19 +154,19 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=LuiO03&hide_border=t
 # Contacto
 
 
-<p align="center">
+<p align="start">
 
-<a href="TU_PORTAFOLIO">
+<a href="https://luio03.github.io/">
 <img src="https://img.shields.io/badge/Portafolio-Web-black?style=for-the-badge&logo=astro">
 </a>
 
 
-<a href="TU_LINKEDIN">
+<a href="https://linkedin.com/in/luiO03">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:antagonist.fenixand.7777@outlook.com">
 <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail">
 </a>
 
