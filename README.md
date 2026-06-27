@@ -1,27 +1,21 @@
 <h1 align="center">
   👋 Hola, soy Luis
 </h1>
-
 <h3 align="center">
   Desarrollador Web | Frontend & Backend
 </h3>
-
 <p align="center">
   Desarrollo aplicaciones modernas, escalables y enfocadas en una buena experiencia de usuario.
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Construyendo+soluciones+digitales;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
-
-
 <p align="center">
   <img 
   width="100%" 
   src="https://github.com/user-attachments/assets/030f01c9-19db-4313-83e7-705270a3fcdf"
   />
 </p>
-
 
 ---
 
@@ -53,36 +47,50 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 </tr>
 </table>
 
-
 ---
 
-# Tecnologías
-
-## Frontend
+# 🛠️ Tecnologías
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,astro,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,vue,vite,sass,bootstrap,tailwind,flutter,wordpress" />
 </p>
 
 
-## Backend
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
 </p>
 
 
-## Herramientas
+## 🗄️ Base de Datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
+## 🚀 Hosting y Deploy
+
+<p>
+<img src="https://skillicons.dev/icons?i=netlify,vercel,hostinger,digitalocean" />
+</p>
+
+## 🎨 Diseño y Edición
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva" />
+</p>
+
+## 🔧 Herramientas y Control de Versiones
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,java,notion,xampp,asana,netBeans,intelliJ" />
+</p>
 
 ---
 
 # Proyectos destacados
-
 
 <table>
 <tr>
