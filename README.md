@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ## Sobre mí
 
@@ -36,7 +36,7 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 <img width="1075" height="1024" alt="foto-sin-fondo" src="https://github.com/user-attachments/assets/c9ea21e5-68dd-4ee4-a5de-9303d24adbc3" />
 </td>
 
@@ -45,13 +45,19 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 
 ---
 
-# 🛠️ Tecnologías
-## Frontend
+# Tecnologías
 
+<table>
+<tr>
+<td width="50%">
+
+## Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,vue,vite,sass,bootstrap,tailwind,flutter,wordpress" />
 </p>
 
+</td>
+<td width="50%">
 
 ## Backend
 
@@ -59,6 +65,12 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
 </p>
 
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
 
 ## Base de Datos
 
@@ -66,11 +78,19 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
+</td>
+<td width="50%">
+
 ## Hosting y Deploy
 
 <p>
 <img src="https://skillicons.dev/icons?i=netlify,vercel,hostinger,digitalocean" />
 </p>
+
+</tr>
+
+<tr>
+<td width="50%">
 
 ## Diseño y Edición
 
@@ -78,12 +98,18 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva" />
 </p>
 
-## 🔧 Herramientas y Control de Versiones
+</td>
+<td width="50%">
+
+## Herramientas y Control de Versiones
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,java,notion,xampp,asana,netBeans,intelliJ" />
 </p>
 
+</td>
+</tr>
+</table>
 ---
 
 # Proyectos destacados
