@@ -45,7 +45,7 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 
 # Tecnologías
 
-<table>
+<table width="100%" style="table-layout: fixed;">
 <tr>
 <td width="50%">
 
@@ -144,8 +144,6 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
     src="https://github-readme-streak-stats.herokuapp.com/?user=LuiO03&hide_border=true&theme=transparent"
   />
 </p>
-
----
 
 # Contacto
 
