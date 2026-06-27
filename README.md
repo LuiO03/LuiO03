@@ -33,6 +33,8 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 - Interfaces modernas
 - Código limpio y mantenible
 
+
+
 </td>
 
 <td width="40%" align="center">
