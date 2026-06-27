@@ -52,9 +52,7 @@ Actualmente trabajo con tecnologías del ecosistema web, desarrollando proyectos
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vue,vite,sass,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,vue,vite,sass,bootstrap,tailwind" />
   <br>
   <img src="https://skillicons.dev/icons?i=flutter,wordpress" />
 </p>
