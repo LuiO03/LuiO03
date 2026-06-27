@@ -1,6 +1,7 @@
 <h1 align="center">
   👋 Hola, soy Luis
 </h1>
+
 <h3 align="center">
   Desarrollador Web | Frontend & Backend
 </h3>
@@ -11,10 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Construyendo+soluciones+digitales;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
 <p align="center">
-  <img 
-  width="100%" 
-  src="https://github.com/user-attachments/assets/030f01c9-19db-4313-83e7-705270a3fcdf"
-  />
+  <img width="3840" height="1080" alt="25391ec" src="https://github.com/user-attachments/assets/23517d82-857e-4057-bde5-5c510c8ab85b" />
 </p>
 
 ---
